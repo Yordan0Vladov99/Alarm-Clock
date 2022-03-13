@@ -1,0 +1,24 @@
+﻿<Window x:Class="AlarmClockApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AlarmClockApp" xmlns:clocklib="clr-namespace:ClockLib;assembly=ClockLib"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="34*"/>
+            <RowDefinition Height="183*"/>
+        </Grid.RowDefinitions>
+        <clocklib:DigitalClock Name="digClock" ClockStarted="ClockStarted" TimeUpdated="TimeUpdated"  Margin="9,6,445,233" Grid.RowSpan="2"/>
+        <TextBox Name="logData" HorizontalAlignment="Left" Margin="24,178,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="296" Height="169" Grid.Row="1"/>
+        <TextBox Name="stats" HorizontalAlignment="Left" Margin="413,78,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="296" Height="279" Grid.Row="1"/>
+        <Slider HorizontalAlignment="Left" Margin="415,23,0,0" VerticalAlignment="Top" Width="293" Height="20" Grid.Row="1"/>
+        <Button Content="Find Distinct Numbers" Click="FindNumbers" HorizontalAlignment="Left" Margin="22,137,0,0" VerticalAlignment="Top" Width="300" Grid.Row="1"/>
+        <Label Content="Beep Indicator:" HorizontalAlignment="Left" Margin="422,45,0,0" VerticalAlignment="Top" Width="132" FontSize="16" FontWeight="Bold" Grid.Row="1"/>
+        <Label Content="Ring after [min]:" HorizontalAlignment="Left" Margin="422,41,0,0" VerticalAlignment="Top" Width="132" FontSize="16" FontWeight="Bold" Grid.RowSpan="2"/>
+        <TextBox Name="beepAfter" HorizontalAlignment="Left" Margin="557,42,0,0" Text="0,1" TextWrapping="Wrap" VerticalAlignment="Top" Width="36" Height="28" FontSize="18" RenderTransformOrigin="0.569,0.247" Grid.RowSpan="2"/>
+
+    </Grid>
+</Window>
