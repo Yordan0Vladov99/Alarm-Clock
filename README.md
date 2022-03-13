@@ -12,6 +12,7 @@ The class contains the ClockStarted and TimeUpdated event handlers and the timer
 When the timer is started (by pressing the 'Start' button) the text field of DigitalClock is initialized to the current time (DateTime.Now) and is updated every second. After every second the TimeUpdated event is handled where the event object ClockTickArgs is updated to the current hour, minute and second. By pressing the 'Reset' button the text field is cleared. 
 By pressing the 'Stop' button the timer is stopped.
 
+  2) AlarmClockApp - a WPF app that implements the user interface.
 
 
 
