@@ -27,3 +27,4 @@ The class contains the following attributes:
 
 The class handles the ClockStared and TimeUpdated events of DigitalClock, where:
   - the ClockStarted event handler initializes the startTime attribute by using the values of ClockTick. The event handler also initializes the ringAfter attribute with the value of the text field located next to the 'Ring After [min]' label. Finally it displays the start time in the text box below the 'Find Distinct Numbers' button.
+  - the TimeUpdated event handler initializes the currentTime attribute by using the values of ClockTick. Also after every even second a random integer in the range \[10,50\] is displayed in the text field bellow the 'Beep Indicator' label. The event handler then checks if ringAfter minutes have passed between startTime and currentTime. If they have then SystemSounds.Beep.Play() command is activated. 
