@@ -1,0 +1,29 @@
+D:\projects\OOP - C#\Упражнения\Задачи\AlarmClockApp\ClockLib\obj\Debug\netcoreapp3.1\ClockLib.csprojAssemblyReference.cache
+D:\projects\OOP - C#\Упражнения\Задачи\AlarmClockApp\ClockLib\obj\Debug\netcoreapp3.1\ClockLib_MarkupCompile.cache
+D:\projects\OOP - C#\Упражнения\Задачи\AlarmClockApp\ClockLib\bin\Debug\netcoreapp3.1\ClockLib.deps.json
+D:\projects\OOP - C#\Упражнения\Задачи\AlarmClockApp\ClockLib\bin\Debug\netcoreapp3.1\ClockLib.dll
+D:\projects\OOP - C#\Упражнения\Задачи\AlarmClockApp\ClockLib\bin\Debug\netcoreapp3.1\ClockLib.pdb
+D:\projects\OOP - C#\Упражнения\Задачи\AlarmClockApp\ClockLib\obj\Debug\netcoreapp3.1\DigitalClock.g.cs
+D:\projects\OOP - C#\Упражнения\Задачи\AlarmClockApp\ClockLib\obj\Debug\netcoreapp3.1\ClockLib_MarkupCompile.lref
+D:\projects\OOP - C#\Упражнения\Задачи\AlarmClockApp\ClockLib\obj\Debug\netcoreapp3.1\DigitalClock.baml
+D:\projects\OOP - C#\Упражнения\Задачи\AlarmClockApp\ClockLib\obj\Debug\netcoreapp3.1\ClockLib.g.resources
+D:\projects\OOP - C#\Упражнения\Задачи\AlarmClockApp\ClockLib\obj\Debug\netcoreapp3.1\ClockLib.AssemblyInfoInputs.cache
+D:\projects\OOP - C#\Упражнения\Задачи\AlarmClockApp\ClockLib\obj\Debug\netcoreapp3.1\ClockLib.AssemblyInfo.cs
+D:\projects\OOP - C#\Упражнения\Задачи\AlarmClockApp\ClockLib\obj\Debug\netcoreapp3.1\ClockLib.csproj.CoreCompileInputs.cache
+D:\projects\OOP - C#\Упражнения\Задачи\AlarmClockApp\ClockLib\obj\Debug\netcoreapp3.1\ClockLib.dll
+D:\projects\OOP - C#\Упражнения\Задачи\AlarmClockApp\ClockLib\obj\Debug\netcoreapp3.1\ClockLib.pdb
+C:\Users\йордан\Desktop\AlarmClockApp\ClockLib\bin\Debug\netcoreapp3.1\ClockLib.deps.json
+C:\Users\йордан\Desktop\AlarmClockApp\ClockLib\bin\Debug\netcoreapp3.1\ClockLib.dll
+C:\Users\йордан\Desktop\AlarmClockApp\ClockLib\bin\Debug\netcoreapp3.1\ClockLib.pdb
+C:\Users\йордан\Desktop\AlarmClockApp\ClockLib\obj\Debug\netcoreapp3.1\ClockLib.csproj.AssemblyReference.cache
+C:\Users\йордан\Desktop\AlarmClockApp\ClockLib\obj\Debug\netcoreapp3.1\DigitalClock.g.cs
+C:\Users\йордан\Desktop\AlarmClockApp\ClockLib\obj\Debug\netcoreapp3.1\ClockLib_MarkupCompile.cache
+C:\Users\йордан\Desktop\AlarmClockApp\ClockLib\obj\Debug\netcoreapp3.1\ClockLib_MarkupCompile.lref
+C:\Users\йордан\Desktop\AlarmClockApp\ClockLib\obj\Debug\netcoreapp3.1\DigitalClock.baml
+C:\Users\йордан\Desktop\AlarmClockApp\ClockLib\obj\Debug\netcoreapp3.1\ClockLib.g.resources
+C:\Users\йордан\Desktop\AlarmClockApp\ClockLib\obj\Debug\netcoreapp3.1\ClockLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\йордан\Desktop\AlarmClockApp\ClockLib\obj\Debug\netcoreapp3.1\ClockLib.AssemblyInfoInputs.cache
+C:\Users\йордан\Desktop\AlarmClockApp\ClockLib\obj\Debug\netcoreapp3.1\ClockLib.AssemblyInfo.cs
+C:\Users\йордан\Desktop\AlarmClockApp\ClockLib\obj\Debug\netcoreapp3.1\ClockLib.csproj.CoreCompileInputs.cache
+C:\Users\йордан\Desktop\AlarmClockApp\ClockLib\obj\Debug\netcoreapp3.1\ClockLib.dll
+C:\Users\йордан\Desktop\AlarmClockApp\ClockLib\obj\Debug\netcoreapp3.1\ClockLib.pdb

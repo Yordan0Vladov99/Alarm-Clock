@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "88c6vbu1eY01wN89MAHlg4/hmsOJHzWQFRcnl/dSkiT07ymoJ95Ljv4rxHm4wZ0GOXncVttkWFHLcD9uXieyeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\йордан\\Desktop\\AlarmClockApp\\ClockLib\\ClockLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\йордан\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\йордан\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\йордан\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
