@@ -46,6 +46,11 @@ namespace ClockLib
         private void StartTimer(object sender, RoutedEventArgs e)
         {
             timer.Start();
+            DateTime now = DateTime.Now;
+            int hh = now.Hour;
+            int mm = now.Minute;
+            int ss = now.Second;
+            this.timeTxt.Text = string.Format("{0:D2}:{1:D2}:{2:D2}", hh, mm, ss);
             ClockStarted?.Invoke(this,
                 new ClockTickArgs(timeTxt.Text));
         }
