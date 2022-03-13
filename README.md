@@ -19,3 +19,11 @@ By pressing the 'Stop' button the timer is stopped.
 ![image](https://user-images.githubusercontent.com/43996329/158059123-99d88d73-bb90-4ce9-80a7-f6234a4641f4.png)
 
 The app uses the the DigitalClock user control from the ClockLib project. The project also implements data binding between the Value and Text attributes in Slider (Binding source) and TextBox (Binding target) in the top right corner of the window. The TextBox values are formatted to display 1 digit after the decimal point.
+
+The class contains the following attributes:
+  - tuples startTime and currentTime, formatted as (int hour, int minute, int second)
+  - rand of type Random
+  - rightAfter of type double
+
+The class handles the ClockStared and TimeUpdated events of DigitalClock, where:
+  - the ClockStarted event handler initializes the startTime attribute by using the values of ClockTick. The event handler also initializes the ringAfter attribute with the value of the text field located next to the 'Ring After [min]' label. Finally it displays the start time in the text box below the 'Find Distinct Numbers' button.
